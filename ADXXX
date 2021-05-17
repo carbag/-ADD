@@ -11,36 +11,21 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 
 
+#EXTINF:-1,VENUS
+http://187.188.147.142:8000/play/a01d/index.m3u8
 #EXTINF:-1,SEXTREME
-http://187.188.147.165:8000/play/a012
-
+http://187.188.147.142:8000/play/a012/index.m3u8
+#EXTINF:-1,PlayBoy HD
+http://187.188.147.142:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 group-title="Без группы",XXX 1
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Без группы",XXX 2
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Sextreme
-http://187.32.214.221:8004/play/a0em/index.m3u8
-#EXTINF:-1 ,Sexy Hot
-http://187.32.214.221:8004/play/a0e7/index.m3u8
-#EXTINF:-1 ,Venus
-http://187.32.214.221:8004/play/a0ei/index.m3u8
-#EXTINF:-1 ,Playboy TV HD
-http://187.32.214.221:8002/play/a0e3/index.m3u8
-#EXTINF:-1 ,Candy
-http://zigfreed.ru/k1T/1885.m3u8
-#EXTINF:-1 ,Русская ночь (дубль 3)
-http://5.128.165.114:81/udp/239.1.6.32:1234
-#EXTINF:-1 ,Super One HD
-http://zigfreed.ru/k1T/1951.m3u8
-#EXTINF:-1 ,Hustler HD (дубль)
-http://37.192.119.31:81/udp/239.1.6.35:1234
+#EXTINF:-1 tvg-id="hlsproxy-4136" group-title="XXX",Pink Erotic 2
+http://91.212.150.248:80/PinkErotic2/index.m3u8?utcstart=943082199974&version=2
 #EXTINF:-1 ,Balkan HOT
 http://194.54.183.85:8000/play/a03m/index.m3u8
-#EXTINF:-1 ,NYX Media HD
-http://5a2a51fc4cfde.streamlock.net:1935/free/_definst_/Stream1/chunklist.m3u8
-#EXTINF:-1 ,Penthouse Gold
-http://82.197.212.210:9001/play/a10y
 
 #EXTINF:-1,MILF Channel
 http://cdn.adultiptv.net/milf.m3u8
