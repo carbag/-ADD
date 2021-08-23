@@ -5,6 +5,8 @@ http://187.135.181.145:8000/play/a023/index.m3u8
 http://187.135.181.145:8000/play/a024/index.m3u8
 #EXTINF:-1,SEXTREME
 http://187.135.181.145:8000/play/a04v/index.m3u8
+#EXTINF:-1,Sexy Hot
+http://200.4.96.35:8004/play/a0e7/index.m3u8
 
 #EXTINF:-1 group-title="Без группы",XXX 1
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
