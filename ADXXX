@@ -1,24 +1,16 @@
 #EXTM3U
-#EXTINF:-1 ,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1 ,Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 ,a3 Bikini
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 ,Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 ,VENUS
-http://187.188.147.142:8000/play/a01d/index.m3u8
-#EXTINF:-1 ,SEXTREME
-http://187.188.147.142:8000/play/a012/index.m3u8
-#EXTINF:-1 ,PlayBoy HD
-http://187.188.147.142:8000/play/a00l/index.m3u8
+#EXTINF:-1,Playboy
+http://187.135.181.145:8000/play/a023/index.m3u8
+#EXTINF:-1,Venus
+http://187.135.181.145:8000/play/a024/index.m3u8
+#EXTINF:-1,SEXTREME
+http://187.135.181.145:8000/play/a04v/index.m3u8
+
 #EXTINF:-1 group-title="Без группы",XXX 1
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Без группы",XXX 2
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Balkan HOT
-http://194.54.183.85:8000/play/a03m/index.m3u8
+
 #EXTINF:-1 ,MILF Channel
 http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1 ,Big Ass Channel
@@ -79,6 +71,16 @@ https://www.ast.tv/stream/2/ultra.m3u8
 https://www.ast.tv/stream/2/high.m3u8
 #EXTINF:-1 ,AST TV 1 HD (18+)
 https://www.ast.tv/stream/1/ultra.m3u8
+
+#EXTINF:-1 ,Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 ,Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 ,a3 Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 ,Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+
 #EXTINF:-1 ,PassionXXX
 http://51.15.0.141/PassionXXX/index.m3u8?token=test
 #EXTINF:-1 ,Brazzers HD
