@@ -1,59 +1,15 @@
 #EXTM3U
-#EXTINF:-1,Playboy
-http://187.135.181.145:8000/play/a023/index.m3u8
+#EXTINF:-1,Playboy HD
+http://170.83.242.153:8000/play/a06j
+#EXTINF:-1,Sextreme
+http://170.83.242.153:8000/play/a09b
 #EXTINF:-1,Venus
-http://187.135.181.145:8000/play/a024/index.m3u8
-#EXTINF:-1,SEXTREME
-http://200.4.96.35:8004/play/a0em/index.m3u8
-#EXTINF:-1,Sexy Hot
-http://200.4.96.35:8004/play/a0e7/index.m3u8
+http://170.83.242.153:8000/play/a00z
 
-#EXTINF:-1 group-title="Без группы",XXX 1
+#EXTINF:-1,XXX 1
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Без группы",XXX 2
+#EXTINF:-1,XXX 2
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Blue Hustler
-http://91.218.211.8:8080/play/100l
-#EXTINF:-1,Brazzers TV Europe HD
-http://91.218.211.8:8080/play/1001
-#EXTINF:-1,Dorcel TV HD
-http://91.218.211.8:8080/play/3051
-#EXTINF:-1,Erox HD
-http://91.218.211.8:8080/play/100q
-#EXTINF:-1,Eroxxx HD
-http://91.218.211.8:8080/play/100p
-#EXTINF:-1,Hustler HD
-http://91.218.211.8:8080/play/3053
-#EXTINF:-1,Playboy TV
-http://91.218.211.8:8080/play/100g
-#EXTINF:-1,Private TV HD
-http://91.218.211.8:8080/play/3054
-#EXTINF:-1,Redlight HD
-http://91.218.211.8:8080/play/100k
-#EXTINF:-1,Vivid RED HD
-http://91.218.211.8:8080/play/100j
-#EXTINF:-1,Vivid Touch
-http://91.218.211.8:8080/play/100n
-#EXTINF:-1,XXL
-http://91.218.211.8:8080/play/100m
-
-#EXTINF:-1,Blue Hustler
-http://195.230.19.33:8002/play/a041/index.m3u8
-#EXTINF:-1,Brazzers HD
-http://195.230.19.33:8002/play/a03z/index.m3u8
-#EXTINF:-1,Dorcel TV HD
-http://195.230.19.33:8002/play/a03y/index.m3u8
-#EXTINF:-1,Hustler HD
-http://195.230.19.33:8002/play/a040/index.m3u8
-#EXTINF:-1,Private HD
-http://195.230.19.33:8002/play/a042/index.m3u8
-#EXTINF:-1,10_Penthouse
-http://84.201.197.58:9981/play/ch010/index.m3u8
-#EXTINF:-1,33_PinkO
-http://84.201.197.58:9981/play/ch033/index.m3u8
-#EXTINF:-1,15_Passion
-http://84.201.197.58:9981/play/ch015/index.m3u8
 #EXTINF:-1,XChannel
 http://91.204.234.3:8000/play/a00k/index.m3u8
 #EXTINF:-1,MidHaute
@@ -62,8 +18,22 @@ http://91.204.234.3:8000/play/a01h/index.m3u8
 http://91.204.234.3:8000/play/a00m/index.m3u8
 #EXTINF:-1,Candy man
 http://91.204.234.3:8000/play/a00n/index.m3u8
-#EXTINF:-1,FrenchLover
-http://91.204.234.3:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 ,PassionXXX
+http://51.15.0.141/PassionXXX/index.m3u8?token=test
+#EXTINF:-1 ,Brazzers HD
+http://51.15.0.141/Brazzers/index.m3u8?token=test
+#EXTINF:-1 ,Reality Kings
+http://iptvhello.com/rkings.m3u8
+
+#EXTINF:-1 ,Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 ,Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 ,a3 Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png",Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 
 
 #EXTINF:-1 ,MILF Channel
@@ -127,21 +97,6 @@ https://www.ast.tv/stream/2/high.m3u8
 #EXTINF:-1 ,AST TV 1 HD (18+)
 https://www.ast.tv/stream/1/ultra.m3u8
 
-#EXTINF:-1 ,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1 ,Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 ,a3 Bikini
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 ,Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-
-#EXTINF:-1 ,PassionXXX
-http://51.15.0.141/PassionXXX/index.m3u8?token=test
-#EXTINF:-1 ,Brazzers HD
-http://51.15.0.141/Brazzers/index.m3u8?token=test
-#EXTINF:-1 ,Reality Kings
-http://iptvhello.com/rkings.m3u8
 
 #EXTINF:-1 ,#Name: iptvtools_141
 http://j.mp/S_JasminTVHD_sly?.m3u8
@@ -168,21 +123,4 @@ http://live.redtraffic.xyz/interracial.m3u8
 #EXTINF:-1 ,RedTraffic POV
 http://live.redtraffic.xyz/pov.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
