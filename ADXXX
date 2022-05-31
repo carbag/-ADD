@@ -1,33 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Playboy HD
-http://170.83.242.153:8000/play/a06j
-#EXTINF:-1,Sextreme
-http://170.83.242.153:8000/play/a09b
-#EXTINF:-1,Venus
-http://170.83.242.153:8000/play/a00z
-
-#EXTINF:-1,XXX 1
-http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,XXX 2
-http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,XChannel
-http://91.204.234.3:8000/play/a00k/index.m3u8
-#EXTINF:-1,MidHaute
-http://91.204.234.3:8000/play/a01h/index.m3u8
-#EXTINF:-1,Candy
-http://91.204.234.3:8000/play/a00m/index.m3u8
-#EXTINF:-1,Candy man
-http://91.204.234.3:8000/play/a00n/index.m3u8
-
-#EXTINF:-1 ,PassionXXX
-http://51.15.0.141/PassionXXX/index.m3u8?token=test
-#EXTINF:-1 ,Brazzers HD
-http://51.15.0.141/Brazzers/index.m3u8?token=test
-#EXTINF:-1 ,Reality Kings
-http://iptvhello.com/rkings.m3u8
-
-#EXTINF:-1 ,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 #EXTINF:-1 ,Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 #EXTINF:-1 ,a3 Bikini
@@ -35,6 +6,22 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png",Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 
+#EXTINF:-1,HOT Man
+http://94.61.44.29:7500/play/a002
+#EXTINF:-1,HOT Taboo
+http://94.61.44.29:7500/play/a003
+#EXTINF:-1,Penthouse HD1
+http://94.61.44.29:7500/play/a00l
+#EXTINF:-1,Sextreme
+http://94.61.44.29:7500/play/a00p
+#EXTINF:-1,Ftv
+http://212.18.115.177:3169/play/ftv/index.m3u8
+#EXTINF:-1,Nuart
+http://212.18.115.177:3169/play/nuart/index.m3u8
+#EXTINF:-1,PinkoTV
+http://93.152.174.144:4000/play/pinkotv/index.m3u8
+#EXTINF:-1,Redlight
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
 
 #EXTINF:-1 ,MILF Channel
 http://cdn.adultiptv.net/milf.m3u8
@@ -98,10 +85,6 @@ https://www.ast.tv/stream/2/high.m3u8
 https://www.ast.tv/stream/1/ultra.m3u8
 
 
-#EXTINF:-1 ,#Name: iptvtools_141
-http://j.mp/S_JasminTVHD_sly?.m3u8
-#EXTINF:-1 ,iptvtools_54
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 #EXTINF:-1 ,cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
 #EXTINF:-1 ,pornstar HD
