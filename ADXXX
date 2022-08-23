@@ -3,11 +3,17 @@
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 #EXTINF:-1 ,a3 Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-
-
-
 #EXTINF:-1,Ftv
 http://212.18.115.177:3169/play/ftv/index.m3u8
+#EXTINF:-1,FTV Midnight Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,PassieXXX
+http://87.212.248.23:8080/play/z06u
+#EXTINF:-1,Evil Angel
+http://87.212.248.23:8080/play/z06r
+#EXTINF:-1,Penthouse Gold
+http://87.212.248.23:8080/play/z06y
 
 #EXTINF:-1,PinkoTV
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
@@ -30,9 +36,6 @@ http://85.11.144.9:7766/EroxHD?token=test
 
 #EXTINF:-1,Blue Hustler 18+
 http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
-
-#EXTINF:-1,FTV Midnight Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1,Hustler TV
 http://78.83.191.18:8000/play/a078
