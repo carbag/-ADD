@@ -1,5 +1,6 @@
+#EXTM3U
 #EXTINF:-1,Telered (Costa Rica)
-https://62fc643fbf1aa.streamlock.net/prueba1/prueba1/chunklist_w1950546729.m3u8
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Telesistema
 https://62fc643fbf1aa.streamlock.net/prueba2/prueba2/chunklist_w1580502919.m3u8
 #EXTINF:-1,ACS NETWORK TV
@@ -12,6 +13,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w55597191.m3u8?WebM3UCL
 #EXTINF:-1,Retrox TV
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+#EXTINF:-1,Canal TV Plus
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/chunklist_w1484627647.m3u8?WebM3UCL
 
 #EXTINF:-1,TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
@@ -21,6 +24,9 @@ https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/chunklist_w545043
 
 #EXTINF:-1,Chilevisual Film
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w1852055316.m3u8
+
+#EXTINF:-1,Coto Brus TV
+https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8?WebM3UCL
 
 #EXTINF:-1,Butaca TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2b-64f0dad7c2bc9b9001d46ea8/variant.m3u8?
@@ -119,4 +125,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanes-samsungs
 
 #EXTINF:-1, MCRT 80s | CA
 https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8?PlaylistM3UCL
+
 
