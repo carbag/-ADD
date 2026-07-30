@@ -1,491 +1,670 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="XITE.nl@SD" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Music",XITE (720p)
-https://xite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE 80s Flashback (1080p)
-https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
-#EXTINF:-1 tvg-id="XITE90sThrowback.us@SD" tvg-logo="https://i.imgur.com/vwpOzuz.png" group-title="Music",XITE 90's Throwback (1080p)
-https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE 90s Throwback (1080p)
-https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE Celebrates (1080p)
-https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE Christian Hits (1080p)
-https://d2tuyivcrvbj81.cloudfront.net/XITE_Christian_Hits.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE Classic Country (720p)
-https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
-#EXTINF:-1 tvg-id="XITEClassicCountry.nl@SD" tvg-logo="https://i.imgur.com/XQrMCkT.png" group-title="Music",XITE Classic Country (1080p) [Geo-blocked]
-https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE Country Today (1080p) [Geo-blocked]
-https://pb-5itqeen09owrs.akamaized.net/XITE_Country_Today.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE Gospel (720p)
-https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
-#EXTINF:-1 tvg-id="XITEHits.nl@NL" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",XITE Hits (1080p)
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
-#EXTINF:-1 tvg-id="XITEHits.nl@Germany" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",XITE Hits Germany (1080p)
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
-#EXTINF:-1 tvg-id="XITEHits.nl@UK" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",XITE Hits UK (1080p)
-https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="XITEJustChill.nl@US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Just Chill (1080p)
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE Nuevo Latino (1080p)
-https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 tvg-id="XITENuevoLatino.us@SD" tvg-logo="https://i.imgur.com/2qyl2y3.png" group-title="Music",XITE Nuevo Latino (1080p)
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE R&B Classic Jams (1080p) [Geo-blocked]
-https://pb-bakywpoa0kn1n.akamaized.net/XITE_RnB_Classic_Jams.m3u8
-#EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Reggae Vibes (1080p)
-https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE Rock x Metal (720p)
-https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
-#EXTINF:-1 tvg-id="XITERockxMetal.nl@US" tvg-logo="https://i.imgur.com/uIIUIuN.png" group-title="Music",XITE Rock x Metal (1080p)
-https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE Siempre Latino (1080p)
-https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
-#EXTINF:-1 tvg-id="XITESiempreLatino.us@SD" tvg-logo="https://i.imgur.com/bwmIEgG.png" group-title="Music",XITE Siempre Latino (1080p)
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
- 
-#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K (1080p)
-https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo70s.us@SD" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Vevo 70s (1080p)
-https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo80s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo 80s (1080p)
-https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo90s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",Vevo 90s (1080p)
-https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo 2010s (1080p)
-https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo '70s & '80s (1080p)
-https://d38e11bvtr8xdq.cloudfront.net/Vevo70sand80s_GB.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo '90s & '00s (1080p)
-https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo '90s & '00s Italy (1080p)
-https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VevoCountry.us@SD" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Vevo Country (1080p)
-https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Country Rewind (1080p)
-https://dtpafgv4jlncv.cloudfront.net/mt/rsu/v1/channel/AZlegsFKILvcvwCBYqT4vQ-V2/index.m3u8
-#EXTINF:-1 tvg-id="VevoHipHop.us@SD" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Music",Vevo Hip Hop (1080p)
-https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Hip Hop & R&B (1080p)
-https://d7i20u8nlyf1b.cloudfront.net/VevoHipHopRB_GB.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Hip-Hop & R&B (1080p)
-https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Hip-Hop et RnB (1080p)
-https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Íconos Latinos
-https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
-#EXTINF:-1 tvg-id="VevoLatino.us@SD" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music",Vevo Latino (1080p)
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop (1080p)
-https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Pop Germany (1080p)
-https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Pop Italy (1080p)
-https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Pop Spain (1080p)
-https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Pop UK (1080p)
-https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="VevoRB.us@SD" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Music",Vevo R&B (1080p)
-https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Regional Mexicano
-https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8
-#EXTINF:-1 tvg-id="VevoRetroRock.us@SD" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock (1080p)
-https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Rock
-https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Schlager Pop (1080p)
-https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo True School Hip-Hop
-https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",VH1 Queens of Reality
-https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
-#EXTINF:-1 tvg-id="RetroMusicTV.cz@SD" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television (360p)
-https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
- 
-#EXTINF:-1,that's 70's
-https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1,that's 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1,that's 90s00s
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1,that's Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1,Rock TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:-1,Capital TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2428000.m3u8
-#EXTINF:-1,Virgin Radio TV
-https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
- 
- 
-#EXTINF:0,MTV CLASSIC (East)
+#EXTINF:0,MTV CLASSIC
+#EXTGRP:unsorted
 http://vipfvtvjxce.top:8080/VIP0151168519118405/84f4b0cf23c4/155814
-#EXTINF:-1,BET SOUL
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3948.ts
-#EXTINF:-1,BET JAMS
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3947.ts
- 
-#EXTINF:-1, Eternal Metal
-https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Retro Plus TV
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Retro Plus TV 2
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:0,Juice TV (1080p) [Not 24/7]
-https://juicex.nz/hls/mystream.m3u8
- 
-#EXTINF:0,Alterna TV (720p) [Not 24/7]
-https://tv.alterna.ar/stream/hls/live.m3u8
- 
-#EXTINF:-1,Recuerdos Retro Radio TV
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Ruidos TV
-https://tv1.ruidosfm.cl/ruidostv/stream.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, PlanetaTV
-https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Parentesis TV
-https://freya.mivideo.pro/parentesistv/index.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Guns n Roses Fans 
-https://stmv6.voxtvhd.com.br/gunsrosesfans/gunsrosesfans/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Mundo de la Musica TV
-https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Music PUQ 
-https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Portal FoxMix 
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Retroclub
-https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Salsa TV 
-https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/1.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Top New Radio
-https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Video Tour Channel 
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, Vintage Music 
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1, VClassicTV Tropical 
-https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:0, VClassicTV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1707992088.m3u8
- 
-#EXTINF:0,XITE Rock x Metal (1080p)
-https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-#EXTINF:0,XITE
-https://xite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0,XITE Hits (1080p)
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
-#EXTINF:0,XITE Just Chill (1080p
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u
- 
-#EXTINF:0,Vevo 70s 
+#EXTINF:0,MTV CLASSIC (Op.2)
+#EXTGRP:unsorted
+http://bgdc.live:25461/kyhuntting/55555/46110
+#EXTINF:0,MTV CLASSIC (Op.3)
+#EXTGRP:unsorted
+http://neospaxy.top:8080/4731764018968389/f773b759956a/29699
+#EXTINF:0,MTV CLASSIC(Op.4)
+#EXTGRP:unsorted
+http://neospaxy.top:8080/4731764018968389/f773b759956a/72252
+#EXTINF:0,MTV CLASSIC (Op.5)
+#EXTGRP:unsorted
+http://206.212.244.63/117/index.m3u8
+#EXTINF:0,BET SOUL
+#EXTGRP:unsorted
+http://206.212.244.63/21/index.m3u8
+#EXTINF:0,BET JAMS
+#EXTGRP:unsorted
+http://206.212.244.63/20/index.m3u8
+#EXTINF:0,Music Box Classic
+#EXTGRP:unsorted
+http://88.212.15.19/live/mb_classic/index.m3u8
+#EXTINF:0,Music Box Dance
+#EXTGRP:unsorted
+http://88.212.15.19/live/mb_dance/index.m3u8
+#EXTINF:0,Music Box Hits
+#EXTGRP:unsorted
+http://88.212.15.19/live/mb_hits/index.m3u8
+#EXTINF:0,Music Box Sexy
+#EXTGRP:unsorted
+http://88.212.15.19/live/mb_sexy/index.m3u8
+#EXTINF:0,Retromusica Television
+#EXTGRP:unsorted
+https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:0,Deluxe Music
+#EXTGRP:unsorted
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0,Euro Indie Music Chart TV
+#EXTGRP:unsorted
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:0,MCM TOP
+#EXTGRP:unsorted
+http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:0,Concert Channel
+#EXTGRP:unsorted
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+#EXTINF:0,Conciertos por Stingray
+#EXTGRP:unsorted
+https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
+#EXTINF:0,Deluxe Dance
+#EXTGRP:unsorted
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:0,Deluxe Lounge
+#EXTGRP:unsorted
+https://jmp2.uk/stvp-CHAJ0500413A
+#EXTINF:0,Deluxe Rap
+#EXTGRP:unsorted
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:0,BET JAMS
+#EXTGRP:unsorted
+http://bgdc.live:25461/kyhuntting/55555/40760
+#EXTINF:0,that's 70's
+#EXTGRP:unsorted
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:0,that's 80's
+#EXTGRP:unsorted
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:0,that's 90s00s
+#EXTGRP:unsorted
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:0,that's Rock
+#EXTGRP:unsorted
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:0,Rock TV
+#EXTGRP:unsorted
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:0,Capital TV
+#EXTGRP:unsorted
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2428000.m3u8
+#EXTINF:0,Virgin Radio TV
+#EXTGRP:unsorted
+https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
+#EXTINF:0,Vevo 70s
+#EXTGRP:unsorted
 https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-#EXTINF:54,Vevo 80s 
+#EXTINF:0,Vevo 80s
+#EXTGRP:unsorted
 https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:59,Vevo 90s 
+#EXTINF:0,Vevo 90s
+#EXTGRP:unsorted
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:0,Vevo '90s & '00s Italy 
+#EXTINF:0,Vevo '90s & '00s Italy
+#EXTGRP:unsorted
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Vevo 2K
+#EXTGRP:unsorted
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:57,Vevo Retro Rock
+#EXTINF:0,Vevo Retro Rock
+#EXTGRP:unsorted
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 #EXTINF:0,Vevo Country
+#EXTGRP:unsorted
 https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-#EXTINF:0,Vevo Hip-Hop & R&B 
+#EXTINF:0,Vevo Hip-Hop & R&B
+#EXTGRP:unsorted
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Vevo Hip-Hop et RnB
+#EXTGRP:unsorted
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
-#EXTINF:0,Vevo Latino 
+#EXTINF:0,Vevo Latino
+#EXTGRP:unsorted
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Vevo Pop
+#EXTGRP:unsorted
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:0,Vevo Pop 
+#EXTINF:0,Vevo Pop
+#EXTGRP:unsorted
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-#EXTINF:0,Vevo Pop Germany 
+#EXTINF:0,Vevo Pop Germany
+#EXTGRP:unsorted
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,Vevo Pop Italy 
+#EXTINF:0,Vevo Pop Italy
+#EXTGRP:unsorted
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Vevo Pop Spain
+#EXTGRP:unsorted
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Vevo Schlager Pop
+#EXTGRP:unsorted
 https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
- 
- 
-#EXTINF:1,Deluxe Lounge
+#EXTINF:0,XITE Rock x Metal (1080p)
+#EXTGRP:unsorted
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:0,XITE
+#EXTGRP:unsorted
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,XITE Hits (1080p)
+#EXTGRP:unsorted
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:0,XITE Just Chill (1080p
+#EXTGRP:unsorted
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u
+#EXTINF:0,BET SOUL
+#EXTGRP:unsorted
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3948.ts
+#EXTINF:0,Eternal Metal
+#EXTGRP:unsorted
+https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Retro Plus TV
+#EXTGRP:unsorted
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Retro Plus TV 2
+#EXTGRP:unsorted
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Juice TV (1080p) [Not 24/7]
+#EXTGRP:unsorted
+https://juicex.nz/hls/mystream.m3u8
+#EXTINF:0,Alterna TV (720p) [Not 24/7]
+#EXTGRP:unsorted
+https://tv.alterna.ar/stream/hls/live.m3u8
+#EXTINF:0,Recuerdos Retro Radio TV
+#EXTGRP:unsorted
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Ruidos TV
+#EXTGRP:unsorted
+https://tv1.ruidosfm.cl/ruidostv/stream.m3u8?PlaylistM3UCL
+#EXTINF:0,PlanetaTV
+#EXTGRP:unsorted
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Parentesis TV
+#EXTGRP:unsorted
+https://freya.mivideo.pro/parentesistv/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Guns n Roses Fans
+#EXTGRP:unsorted
+https://stmv6.voxtvhd.com.br/gunsrosesfans/gunsrosesfans/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Mundo de la Musica TV
+#EXTGRP:unsorted
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Music PUQ
+#EXTGRP:unsorted
+https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
+#EXTINF:0,Portal FoxMix
+#EXTGRP:unsorted
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Retroclub
+#EXTGRP:unsorted
+https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Salsa TV
+#EXTGRP:unsorted
+https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/1.m3u8?PlaylistM3UCL
+#EXTINF:0,Top New Radio
+#EXTGRP:unsorted
+https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Video Tour Channel
+#EXTGRP:unsorted
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Vintage Music
+#EXTGRP:unsorted
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,VClassicTV Tropical
+#EXTGRP:unsorted
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,VClassicTV
+#EXTGRP:unsorted
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1707992088.m3u8
+#EXTINF:0,Deluxe Lounge
+#EXTGRP:unsorted
 https://jmp2.uk/stvp-CHAJ0500413A?checkedby:iptvcat.com
-#EXTINF:-1,Vilanoise TV
+#EXTINF:0,Vilanoise TV
+#EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/sep/5cceba445c349601d320e2c30dccc100/high.m3u8
- 
-#EXTINF:-1,Qwest TV Jazz & Beyond
+#EXTINF:0,Qwest TV Jazz & Beyond
+#EXTGRP:unsorted
 https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
-#EXTINF:-1,Stingray DJAZZ
+#EXTINF:0,Stingray DJAZZ
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Jazz TV (1080p) [Not 24/7]
+#EXTGRP:unsorted
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
- 
 #EXTINF:0,70-80 TV (1080P)
+#EXTGRP:unsorted
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
- 
- 
- 
 #EXTINF:0,DanceHits80
+#EXTGRP:unsorted
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:0,DanceTV Algorhythm (1080p)
+#EXTGRP:unsorted
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
 #EXTINF:0,DanceTV Deep House District (1080p)
+#EXTGRP:unsorted
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:0,DanceTV EDM Mainstage (1080p)
+#EXTGRP:unsorted
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 #EXTINF:0,DanceTV House Floor (1080p)
+#EXTGRP:unsorted
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 #EXTINF:0,DanceTV Minimal Tech (1080p)
+#EXTGRP:unsorted
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 #EXTINF:0,DanceTV Techno Warehouse (1080p)
+#EXTGRP:unsorted
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
- 
 #EXTINF:0,Deluxe Dance (1080p)
+#EXTGRP:unsorted
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0,Deluxe Lounge (720p)
+#EXTGRP:unsorted
 https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:0,Deluxe Music (720p)
+#EXTGRP:unsorted
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0,Deluxe Rap (1080p)
+#EXTGRP:unsorted
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0,Rock TV (1080p) [Not 24/7]
+#EXTGRP:unsorted
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 #EXTINF:0,Kiss Kiss TV (1080p)
+#EXTGRP:unsorted
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 #EXTINF:0,Kiss TV (1080p)
+#EXTGRP:unsorted
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:0,Kronehit (1080p)
+#EXTGRP:unsorted
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:0,Memorias del Corazon (480p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
 #EXTINF:0,Memorias FM Pop Latino (480p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
 #EXTINF:0,Memorias TV Classic (480p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
 #EXTINF:0,Memorias TV Tropical (480p) [Geo-blocked]
+#EXTGRP:unsorted
 https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
- 
 #EXTINF:0,RTL 102.5 Best (1080p)
+#EXTGRP:unsorted
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 #EXTINF:0,RTL 102.5 Bro&Sis (1080p)
+#EXTGRP:unsorted
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
 #EXTINF:0,RTL 102.5 Caliente (1080p)
+#EXTGRP:unsorted
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 #EXTINF:0,RTL 102.5 Disco (1080p)
+#EXTGRP:unsorted
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
 #EXTINF:0,RTL 102.5 Napulи (1080p)
+#EXTGRP:unsorted
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 #EXTINF:0,RTL 102.5 Traffic (1080p)
+#EXTGRP:unsorted
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:0,RTL 102.5 TV (1080p)
+#EXTGRP:unsorted
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
- 
- 
 #EXTINF:0,Qello Concerts by Stingray
+#EXTGRP:unsorted
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
 #EXTINF:0,Qello Concerts by Stingray (1080p)
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Totalmusic (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:33,Totalmusic 80s (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Totalmusic 80s (720p)
+#EXTGRP:unsorted
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:0,Totalmusic 2000s (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:0,Totalmusic Concerts (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:0,Totalmusic Dance (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
- 
 #EXTINF:0,Retro Music Television
+#EXTGRP:unsorted
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:Óčko
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:Óčko Express
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:Óčko Gold
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
- 
-#EXTINF:-1,30A Música
+#EXTINF:0,30A Música
+#EXTGRP:unsorted
 https://30a-tv.com/music.m3u8
-#EXTINF:-1,88 estéreo HD
+#EXTINF:0,88 estéreo HD
+#EXTGRP:unsorted
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1,TV DE EMPRESA
+#EXTINF:0,TV DE EMPRESA
+#EXTGRP:unsorted
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
-#EXTINF:-1,Factoria TV HD
+#EXTINF:0,Factoria TV HD
+#EXTGRP:unsorted
 https://eu1.servers10.com:8081/8010/index.m3u8
-#EXTINF:-1,KISS KISS ITALIA HD
+#EXTINF:0,KISS KISS ITALIA HD
+#EXTGRP:unsorted
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1,KISS KISS NAPOLI HD
+#EXTINF:0,KISS KISS NAPOLI HD
+#EXTGRP:unsorted
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1,Kronehit HD
+#EXTINF:0,Kronehit HD
+#EXTGRP:unsorted
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1,La Rock 22
+#EXTINF:0,La Rock 22
+#EXTGRP:unsorted
 http://138.117.4.70:8075/channel22/playlist.m3u8
-#EXTINF:-1,Zona Latina TV
+#EXTINF:0,Zona Latina TV
+#EXTGRP:unsorted
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-#EXTINF:-1,MÚSICA RECARGAR TV HD
+#EXTINF:0,MÚSICA RECARGAR TV HD
+#EXTGRP:unsorted
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:-1,NRG 91 HD
+#EXTINF:0,NRG 91 HD
+#EXTGRP:unsorted
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1,ONE RUS HD
+#EXTINF:0,ONE RUS HD
+#EXTGRP:unsorted
 http://rtmp.one.by:2300?
-#EXTINF:-1,ONE.BY
+#EXTINF:0,ONE.BY
+#EXTGRP:unsorted
 http://rtmp.one.by:1200
-#EXTINF:-1,Ocko
+#EXTINF:0,Ocko
+#EXTGRP:unsorted
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1,Ocko Star
+#EXTINF:0,Ocko Star
+#EXTGRP:unsorted
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1,PLAY TV
+#EXTINF:0,PLAY TV
+#EXTGRP:unsorted
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-#EXTINF:-1,POWER DANCE
+#EXTINF:0,POWER DANCE
+#EXTGRP:unsorted
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1,RADIO IBIZA TV
+#EXTINF:0,RADIO IBIZA TV
+#EXTGRP:unsorted
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
-#EXTINF:-1,RADIO LOVE FM
+#EXTINF:0,RADIO LOVE FM
+#EXTGRP:unsorted
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
-#EXTINF:-1,RIVIERA
+#EXTINF:0,RIVIERA
+#EXTGRP:unsorted
 http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1,ROCK&ROLL
+#EXTINF:0,ROCK&ROLL
+#EXTGRP:unsorted
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1,Recargar Radio Music Power HD
+#EXTINF:0,Recargar Radio Music Power HD
+#EXTGRP:unsorted
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1,SUPER SEIS
+#EXTINF:0,SUPER SEIS
+#EXTGRP:unsorted
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1,Sonus FM
+#EXTINF:0,Sonus FM
+#EXTGRP:unsorted
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:-1,TVO HD
+#EXTINF:0,TVO HD
+#EXTGRP:unsorted
 https://eu1.servers10.com:8081/8138/index.m3u8
-#EXTINF:-1,Video Tour Channel HD
+#EXTINF:0,Video Tour Channel HD
+#EXTGRP:unsorted
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1,Vuemme TV
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist .m3u8
-#EXTINF:-1,Ocko Expres
+#EXTINF:0,Vuemme TV
+#EXTGRP:unsorted
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist
+#EXTINF:0,Ocko Expres
+#EXTGRP:unsorted
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1,FS1
+#EXTINF:0,FS1
+#EXTGRP:unsorted
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1,COMPANY TV
+#EXTINF:0,COMPANY TV
+#EXTGRP:unsorted
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTINF:-1,Radio 51 TV
+#EXTINF:0,Radio 51 TV
+#EXTGRP:unsorted
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1,Visual Radio
+#EXTINF:0,Visual Radio
+#EXTGRP:unsorted
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1,Banovina TV
+#EXTINF:0,Banovina TV
+#EXTGRP:unsorted
 http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,TV7 Colmar
+#EXTINF:0,TV7 Colmar
+#EXTGRP:unsorted
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1,TVM 3
+#EXTINF:0,TVM 3
+#EXTGRP:unsorted
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
- 
 #EXTINF:0,Stingray Classic Rock (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Classica (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray CMusic (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray DJAZZ (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Easy Listening (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:66,Stingray Flashback 70s (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Stingray Flashback 70s (1080p)
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Greatest Hits
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
 #EXTINF:0,Stingray Greatest Holiday Hits
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
 #EXTINF:0,Stingray Hit List (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Hitlist
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
 #EXTINF:0,Stingray Holiday Hits (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Hot Country (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Karaoke (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Naturescape
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
 #EXTINF:0,Stingray Naturescape (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Nothin' But 90s (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Pop Adult (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:66,Stingray Remember the 80s (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Stingray Remember the 80s (1080p)
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:66,Stingray Remember the 80s
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Stingray Remember the 80s
+#EXTGRP:unsorted
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071
-#EXTINF:66,Stingray Remember the 80s
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Stingray Remember the 80s
+#EXTGRP:unsorted
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8
 #EXTINF:0,Stingray Rock Alternative (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Romance Latino (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:66,Stingray Smooth Jazz (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Stingray Smooth Jazz (1080p)
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Soul Storm (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray The Spa (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Today's KPOP (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Today's Latin Pop (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:0,Stingray Urban Beat (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTGRP:unsorted
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Vevo 2K (1080p)
+#EXTGRP:Music
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:0,Vevo 70s (1080p)
+#EXTGRP:Music
+https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:0,Vevo 80s (1080p)
+#EXTGRP:Music
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:0,Vevo 90s (1080p)
+#EXTGRP:Music
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:0,Vevo Country (1080p)
+#EXTGRP:Music
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:0,Vevo Hip Hop (1080p)
+#EXTGRP:Music
+https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
+#EXTINF:0,Vevo Latino (1080p)
+#EXTGRP:Music
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Pop (1080p)
+#EXTGRP:Music
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:0,Vevo R&B (1080p)
+#EXTGRP:Music
+https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
+#EXTINF:0,Vevo Retro Rock (1080p)
+#EXTGRP:Music
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:0,XITE (720p)
+#EXTGRP:Music
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,XITE 90's Throwback (1080p)
+#EXTGRP:Music
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:0,XITE Classic Country (1080p) [Geo-blocked]
+#EXTGRP:Music
+https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
+#EXTINF:0,XITE Hits (1080p)
+#EXTGRP:Music
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:0,XITE Hits Germany (1080p)
+#EXTGRP:Music
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+#EXTINF:0,XITE Hits UK (1080p)
+#EXTGRP:Music
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:0,XITE Just Chill (1080p)
+#EXTGRP:Music
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:0,XITE Nuevo Latino (1080p)
+#EXTGRP:Music
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:0,XITE Reggae Vibes (1080p)
+#EXTGRP:Music
+https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
+#EXTINF:0,XITE Rock x Metal (1080p)
+#EXTGRP:Music
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:0,XITE Siempre Latino (1080p)
+#EXTGRP:Music
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:0,Retro Music Television (360p)
+#EXTGRP:Music
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,Vevo 2010s (1080p)
+#EXTGRP:Undefined
+https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8
+#EXTINF:0,Vevo '70s & '80s (1080p)
+#EXTGRP:Undefined
+https://d38e11bvtr8xdq.cloudfront.net/Vevo70sand80s_GB.m3u8
+#EXTINF:0,Vevo '90s & '00s (1080p)
+#EXTGRP:Undefined
+https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
+#EXTINF:0,Vevo '90s & '00s Italy (1080p)
+#EXTGRP:Undefined
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Country Rewind (1080p)
+#EXTGRP:Undefined
+https://dtpafgv4jlncv.cloudfront.net/mt/rsu/v1/channel/AZlegsFKILvcvwCBYqT4vQ-V2/index.m3u8
+#EXTINF:0,Vevo Hip Hop & R&B (1080p)
+#EXTGRP:Undefined
+https://d7i20u8nlyf1b.cloudfront.net/VevoHipHopRB_GB.m3u8
+#EXTINF:0,Vevo Hip-Hop & R&B (1080p)
+#EXTGRP:Undefined
+https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Hip-Hop et RnB (1080p)
+#EXTGRP:Undefined
+https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
+#EXTINF:0,Vevo Íconos Latinos
+#EXTGRP:Undefined
+https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
+#EXTINF:0,Vevo Pop Germany (1080p)
+#EXTGRP:Undefined
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Pop Italy (1080p)
+#EXTGRP:Undefined
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Pop Spain (1080p)
+#EXTGRP:Undefined
+https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Pop UK (1080p)
+#EXTGRP:Undefined
+https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
+#EXTINF:0,Vevo Regional Mexicano
+#EXTGRP:Undefined
+https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8
+#EXTINF:0,Vevo Rock
+#EXTGRP:Undefined
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+#EXTINF:0,Vevo Schlager Pop (1080p)
+#EXTGRP:Undefined
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo True School Hip-Hop
+#EXTGRP:Undefined
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+#EXTINF:0,XITE 80s Flashback (1080p)
+#EXTGRP:Undefined
+https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
+#EXTINF:0,XITE 90s Throwback (1080p)
+#EXTGRP:Undefined
+https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
+#EXTINF:0,XITE Celebrates (1080p)
+#EXTGRP:Undefined
+https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
+#EXTINF:0,XITE Christian Hits (1080p)
+#EXTGRP:Undefined
+https://d2tuyivcrvbj81.cloudfront.net/XITE_Christian_Hits.m3u8
+#EXTINF:0,XITE Classic Country (720p)
+#EXTGRP:Undefined
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+#EXTINF:0,XITE Country Today (1080p) [Geo-blocked]
+#EXTGRP:Undefined
+https://pb-5itqeen09owrs.akamaized.net/XITE_Country_Today.m3u8
+#EXTINF:0,XITE Gospel (720p)
+#EXTGRP:Undefined
+https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
+#EXTINF:0,XITE Nuevo Latino (1080p)
+#EXTGRP:Undefined
+https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
+#EXTINF:0,XITE R&B Classic Jams (1080p) [Geo-blocked]
+#EXTGRP:Undefined
+https://pb-bakywpoa0kn1n.akamaized.net/XITE_RnB_Classic_Jams.m3u8
+#EXTINF:0,XITE Rock x Metal (720p)
+#EXTGRP:Undefined
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
+#EXTINF:0,XITE Siempre Latino (1080p)
+#EXTGRP:Undefined
+https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
+#EXTINF:0,VH1 Queens of Reality
+#EXTGRP:Undefined
+https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
