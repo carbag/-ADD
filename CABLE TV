@@ -8,7 +8,7 @@ https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL_2/40-hls/li
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=7405627254&_cdn_timestamp=1789354168&_cdn_token=73aee5662bc84e62b39f775700867ffae827475f
 
 #EXTINF:-1,Sony Channel
-https://cdnmain7.win.cdn.moderntv.eu:7909/win/stream/LAS_ESTRELLAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLAS_ESTRELLAS_stream_rg&_cdn_session=7405474150&_cdn_timestamp=1789353632&_cdn_token=4755def57f6c7d56a5239f2a8355d0c7287b24d3
+https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/SONY_CHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DSONY_CHANNEL_stream_1n&_cdn_session=7406481046&_cdn_timestamp=1789357014&_cdn_token=7414946f9f9ef8c27e8b7ee9b3c4edd07a49382c
 
 #EXTINF:-1,Sony Movies
 https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/SONY_MOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DSONY_MOVIES_stream_01&_cdn_session=7405510486&_cdn_timestamp=1789353748&_cdn_token=cefddb81de195d37bc7ebc48b7e1d8608a0b1305
