@@ -6,6 +6,28 @@ http://tv-275228.ifiesta.net:80/TV-14650030923070/116630916768/221172
 #EXTINF:-1,MTV Classic West
 http://tv-275228.ifiesta.net:80/TV-14650030923070/116630916768/221173
 
+#EXTINF:0,MTV Classic L.A.
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:0,MTV Classic Brasil
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:0,MTV Classic Canada
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:0,MTV Rocks
+https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
+#EXTINF:0,MTV Rocks L.A.
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+#EXTINF:0,MTV Spankin' New 
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+#EXTINF:0,MTV Biggest Pop 
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+#EXTINF:0,MTV Flow Latino 
+https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
+#EXTINF:0,MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:0,Yo! MTV
+https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+
+
 #EXTINF:0,Vevo '70s & '80s (1080p)
 #EXTGRP:Undefined
 https://d38e11bvtr8xdq.cloudfront.net/Vevo70sand80s_GB.m3u8
@@ -80,32 +102,7 @@ https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTGRP:Music
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 
-#EXTINF:0,MTV CLASSIC 1
-https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 
-#EXTINF:0,MTV CLASSIC 2
-https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
-
-#EXTINF:0,MTV CLASSIC 3
-https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
-
-#EXTINF:0,MTV ROCKS
-https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
-
-#EXTINF:0,MTV Spankin' New 
-https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
-
-#EXTINF:0,MTV Biggest Pop 
-https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
-
-#EXTINF:0,MTV Flow Latino 
-https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
-
-#EXTINF:0,MTV Live
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-
-#EXTINF:0,Yo! MTV
-https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 
 #EXTINF:0,that's 70's
 #EXTGRP:unsorted
@@ -137,6 +134,22 @@ https://stmv6.voxtvhd.com.br/gunsrosesfans/gunsrosesfans/playlist.m3u8?PlaylistM
 #EXTINF:0,Eternal Metal
 #EXTGRP:unsorted
 https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0,BRIDGE 
+http://stream.mcquack.net/318/index.m3u8
+
+#EXTINF:0,BRIDGE Classic
+http://stream.mcquack.net/272/index.m3u8
+
+#EXTINF:0,BRIDGE ROCK
+http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
+
+#EXTINF:0,BRIDGE DELUXE
+http://stream.mcquack.net/92/index.m3u8
+
+#EXTINF:0,BRIDGE Hits
+http://stream.mcquack.net/320/index.m3u8
+
 
 #EXTINF:0,Totalmusic (720p)
 #EXTGRP:unsorted
@@ -172,6 +185,8 @@ https://gizmo2.cloudserver.nz/hls/GROAT.m3u8
 #EXTINF:0,Melo
 https://gizmo2.cloudserver.nz/hls/Melo.m3u8
 
+
+
 #EXTINF:0,Video Tour Channel
 #EXTGRP:unsorted
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
@@ -204,6 +219,17 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTGRP:unsorted
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
+#EXTINF:0,Memorias Classic
+https://signal.teleon.live/dseg/nHT_1iKnMJ7aUDZsARHpA_5ORj-b8HILaGfWSaqSplf5Gj9cgC2Yy6zsJl3Xm_t5tOaIHeiaAU8HObkDjzY32dEwpGRKo3hfJDfwwnU.m3u8?token=test
+
+#EXTINF:0,Memorias Del Corazón
+https://signal.teleon.live/dseg/3wV0UpcfSqH1WAIzu9PS_jKZ1ZrxeESXd_V1mC19o-8uVdtzJAZp9WAI7PC0PTwiABzkFdQLdPaSkkLfZ2N4aKwKlRm4svvXaQDERjg.m3u8?token=test
+
+#EXTINF:0,Memorias FM Pop Latino
+http://signal.teleon.live/dseg/M5XnLbZUOYLa_NTt5bUIsMbfq4csGszesvKtgjQWpI6gDb5BexLAMxHaa4ez2rqDmweGyxtqEC6E_GfYgoTcxulGhlrkcq7Oef0eArc.m3u8?token=test
+
+#EXTINF:0,Memorias Tropical
+http://signal.teleon.live/dseg/ofWPjueOq5ppshBSS_eSPwTOefZwZOnq4X0UoFNTUY50hRyqrrw4-qzNCpjEh0z0CyMsJoHKd34bKDXwavZbQD12LtL_GI1EcjC_ZmA.m3u8?token=test
 
 #EXTINF:0,Telehit Musica
 http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
