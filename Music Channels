@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,Billy Joel Station
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1795743175/ei/Z4kIa5WWDtKX-LAP9ujL4Q8/ip/190.234.163.219/id/6iBCvRdXr80.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/gcr/pe/bui/AZFAFb_pY5v0Go1hJaDuTFmsws_RnH66yz1FsF01wOU9z9efjXAQujyob5bJMI5fMc_eBvvMDn535L3H/spc/nfZ8ZgoFY1lWlAxKI4V5Bq66iWkEDHXrTvvrGmijOiOIC86i1HkskpPQwXnj/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIhAOzuvN0_Z5g1npRR8P48aRkD4ChO12kK_iCRF7Ri50L_AiA9ycHXiExuec29e7PXQ195stf3EPCwm76M-D4SEi55mw%3D%3D/file/index.m3u8
+
 #EXTINF:-1,MTV CLASSIC
 http://31.43.191.125:8080/vip4371768067061/abaeecb13f4f/155814
 #EXTINF:-1,MTV CLASSIC OP.2
@@ -14,7 +17,7 @@ https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 #EXTINF:0,MTV Rocks L.A.
 https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
-#EXTINF:0,MTV Spankin' New 
+#EXTINF:0,MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:0,MTV Biggest Pop 
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
